@@ -13,7 +13,7 @@ public class Atividade4 {
         System.out.println("Terceira nota: ");
         float n3 = sc.nextFloat();
 
-        float media = (n1 + n2 + n3) / 2;
+        float media = (n1 + n2 + n3) / 3;
         System.out.println(media);
     }
 
